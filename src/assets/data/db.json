@@ -1,0 +1,26 @@
+{
+    "products": [
+      { "pid":100,
+      "pName":"apple",
+      "band":"5g",
+      "price":120000,
+      "display":"led" },
+      { "pid":101,
+      "pName":"samsaung",
+      "band":"5g",
+      "price":45000,
+      "display":"led" },
+      { "pid":102,
+      "pName":"Nokia",
+      "band":"3g",
+      "price":1200,
+      "display":"lcd" }
+      ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
